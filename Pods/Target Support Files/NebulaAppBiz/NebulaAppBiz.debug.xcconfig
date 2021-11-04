@@ -1,0 +1,13 @@
+CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = NO
+CONFIGURATION_BUILD_DIR = ${PODS_CONFIGURATION_BUILD_DIR}/NebulaAppBiz
+FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/APConfig" "${PODS_ROOT}/APLog" "${PODS_ROOT}/APLongLinkService" "${PODS_ROOT}/APMobileFramework" "${PODS_ROOT}/APMobileNetwork" "${PODS_ROOT}/APOpenSSL" "${PODS_ROOT}/APProtocolBuffers" "${PODS_ROOT}/APRemoteLogging" "${PODS_ROOT}/AntUI" "${PODS_ROOT}/AutoTracker" "${PODS_ROOT}/MASSChannel" "${PODS_ROOT}/MASSProxy" "${PODS_ROOT}/MPDataCenter" "${PODS_ROOT}/Nebula" "${PODS_ROOT}/NebulaAppBiz" "${PODS_ROOT}/NebulaAppManager" "${PODS_ROOT}/NebulaKernel" "${PODS_ROOT}/NebulaLogging" "${PODS_ROOT}/NebulaPoseidon" "${PODS_ROOT}/NebulaSDK" "${PODS_ROOT}/mPaas" $(PODS_ROOT)/NebulaAppBiz
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+OTHER_LDFLAGS = $(inherited) -framework "Accelerate" -framework "CoreMotion" -framework "CoreTelephony" -framework "Foundation" -framework "MessageUI" -framework "Security" -framework "UIKit" -framework "UserNotifications"
+PODS_BUILD_DIR = ${BUILD_DIR}
+PODS_CONFIGURATION_BUILD_DIR = ${PODS_BUILD_DIR}/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_ROOT = ${SRCROOT}
+PODS_TARGET_SRCROOT = ${PODS_ROOT}/NebulaAppBiz
+PODS_XCFRAMEWORKS_BUILD_DIR = $(PODS_CONFIGURATION_BUILD_DIR)/XCFrameworkIntermediates
+PRODUCT_BUNDLE_IDENTIFIER = org.cocoapods.${PRODUCT_NAME:rfc1034identifier}
+SKIP_INSTALL = YES
+USE_RECURSIVE_SCRIPT_INPUTS_IN_SCRIPT_PHASES = YES
