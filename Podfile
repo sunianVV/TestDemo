@@ -14,5 +14,7 @@ target 'TestDemo' do
   use_frameworks!
   mPaaS_pod "mPaaS_Nebula"
   # pod 'FackTalkLib', :git => 'https://github.com/sunianVV/FackTalkLib.git'
-
+  pod 'Moya', '~> 14.0.0'
+  pod 'SwiftyJSON', '~> 5.0.1'
+  pod 'SnapKit', '~> 5.0.1'
 end
