@@ -1,0 +1,14 @@
+//
+//  TestDemo-Prefix.pch
+//  TestDemo
+//
+//  Created by wsn on 2021/11/04.
+
+// MPAAS HEADERS BEGIN
+// This part is maintained by MPaaS plugin automatically. 
+#ifdef __OBJC__
+
+#import "TestDemo-mPaaS-Headers.h"
+
+#endif
+// MPAAS HEADERS END

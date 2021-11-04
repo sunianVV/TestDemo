@@ -1,0 +1,18 @@
+${PODS_ROOT}/Target Support Files/Pods-TestDemo/Pods-TestDemo-resources.sh
+${PODS_ROOT}/APMobileFramework/APMobileFramework.framework/APMobileFramework.bundle
+${PODS_ROOT}/APMobileNetwork/APMobileNetwork.framework/APMobileNetwork.bundle
+${PODS_ROOT}/APRemoteLogging/APRemoteLogging.framework/APRemoteLogging.bundle
+${PODS_ROOT}/AntUI/AntUI.framework/APCommonUI.bundle
+${PODS_ROOT}/MPNebulaAdapter/MPNebulaAdapter.framework/MPInternalPlugins.bundle
+${PODS_ROOT}/MPNebulaAdapter/MPNebulaAdapter.framework/MPInternalPresetApps.bundle
+${PODS_ROOT}/MPNebulaAdapter/MPNebulaAdapter.framework/MPNebulaAdapter.bundle
+${PODS_ROOT}/NebulaAppManager/NebulaAppManager.framework/NebulaAppManager.bundle
+${PODS_ROOT}/NebulaBiz/NebulaBiz.framework/NebulaBiz.bundle
+${PODS_ROOT}/NebulaBiz/NebulaBiz.framework/NebulaPoseidon.bundle
+${PODS_ROOT}/NebulaConfig/NebulaConfig.framework/NebulaConfig.bundle
+${PODS_ROOT}/NebulaKernel/NebulaKernel.framework/NebulaKernel.bundle
+${PODS_ROOT}/NebulaLogging/NebulaLogging.framework/NebulaLogging.bundle
+${PODS_ROOT}/NebulaSDK/NebulaSDK.framework/NebulaSDK.bundle
+${PODS_ROOT}/NebulaTinyapp/NebulaTinyapp.framework/NebulaTinyapp.bundle
+${PODS_ROOT}/TTTAttributedLabel/TTTAttributedLabel.framework/TTTAttributedLabel.bundle
+${PODS_ROOT}/TinyAppCommon/TinyAppCommon.framework/TinyAppCommon.bundle
